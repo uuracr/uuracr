@@ -1,42 +1,31 @@
-## Merhaba 👋
+# 👋 Uğur | System & Network Specialist
 
-Ben Uğur. Yazılım dünyasında kendimi geliştiriyorum, özellikle oyun geliştirme alanına ilgi duyuyorum.
+### 🖥️ Teknik Uzmanlık Alanları
+* **Sunucu & Web Altyapısı:** Windows Server Yönetimi / IIS (Internet Information Services) / VDS & Sunucu Barındırma
+* **Ağ & Güvenlik:** Cisco Ağ Protokolleri / Port Yönlendirme / Güvenlik Duvarı (Firewall) Konfigürasyonları
+* **Sanallaştırma:** Hyper-V / VMware Workstation altyapıları ile izole laboratuvar ve sunucu mimarileri
 
-### 🚀 Şu anda:
-- Python öğreniyorum
-- Temel programlama, algoritmalar ve oyun geliştirme üzerine çalışıyorum
+---
 
-### 🎮 Hedefim:
-- Oyun programlama konusunda uzmanlaşmak
-- İleride C diline geçerek daha düşük seviyeli programlama ile ilgilenmek
-
-### 🛠️ İlgilendiğim Teknolojiler:
-- Python (başlangıç & orta seviye)
-- Pygame (temel seviyede oyun geliştirme)
-- Yakında: C, SDL, OpenGL
-
-### 📫 Bana ulaşmak için:
-- E-posta: acarugur66@gmail.com  
+### ⚙️ Altyapı ve Lab Çalışmaları
+* 🖥️ **Windows Server & IIS:** Web sunucusu rol yapılandırmaları, port optimizasyonları (Port 80/8080) ve dinamik web mimarilerinin dağıtımı.
+* 🌐 **Ağ Servisleri:** DNS ve DHCP servislerinin entegrasyonu, temel ağ topolojilerinin tasarımı ve sunucu erişim kurallarının sıkılaştırılması.
+* 🛠️ **Troubleshooting:** Sistem ve ağ üzerinde oluşan erişim, port ve servis hatalarının canlı ortamda analiz edilmesi ve çözümü.
 
 
 
+## 🇺🇸 English
 
-## Hello 👋
 
-I'm Uğur. I'm learning software development and I'm especially interested in game development.
+### 🖥️ Core Technical Skills
+* **Server & Web Infrastructure:** Windows Server Administration / IIS (Internet Information Services) / VDS & Server Hosting
+* **Networking & Security:** Cisco Network Protocols / Port Forwarding / Firewall Configurations
+* **Virtualization:** Isolated lab environments and server architectures using Hyper-V and VMware Workstation
 
-### 🚀 Currently:
-- Learning Python  
-- Working on programming basics, algorithms, and simple game development
+---
 
-### 🎮 My Goal:
-- To specialize in game programming  
-- To move on to the C language and work on lower-level programming in the future
+### ⚙️ Infrastructure & Lab Deployments
+* 🖥️ **Windows Server & IIS:** Web server role configurations, port optimizations (Port 80/8080), and deployment of dynamic web architectures.
+* 🌐 **Network Services:** Integration of DNS and DHCP services, network topology design, and hardening of server access rules.
+* 🛠️ **Troubleshooting:** Real-time analysis and resolution of connectivity, port, and service-level faults within server systems.
 
-### 🛠️ Technologies I'm Interested In:
-- Python (beginner to intermediate level)  
-- Pygame (basic level game development)  
-- Coming soon: C, SDL, OpenGL
-
-### 📫 How to reach me:
-- Email: acarugur66@gmail.com 
